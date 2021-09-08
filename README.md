@@ -5,7 +5,7 @@
 
 My mail: gethtath@gmail.com
 
-My tg: [@kot239](t.me/kot239)
+My tg: [@kot239](https://t.me/kot239)
 
 <!---
 kot239/kot239 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
