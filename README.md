@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kot239, actually my name is German.
-- 👀 I’m interested in Bioinformatics, ML, Chemoinformatics and other fields of Computer Science!
+- 👀 I’m interested in ML, AI, Bioinformatics, Chemoinformatics and other fields of Computer Science!
 - 🌱 I’m currently learning in HSE SPb on the programm "Applied Math and Computer Science"
 - 👨🏻‍💻 Ex-internship in Yandex.Lavka / Yango Deli (C++ developer)
 
